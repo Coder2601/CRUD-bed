@@ -1,0 +1,29 @@
+.carthead{
+ font-size: 188%;
+ text-align: center;
+ position: relative;
+}
+.cartItems{
+    display: inline;
+}
+.cart{
+    float: right;
+    margin-top: -71%;
+    width: 40%;
+}
+.rightboxcart{
+    display: inline;
+}
+.pickupCart{
+    float: right;
+    margin-top: -14%;
+    width: 40%;
+}
+.normal{
+    background-color: lightgray;
+    color: black;
+}
+.selected{
+    background-color: #A31041;
+    color: white;
+}
